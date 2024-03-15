@@ -6,5 +6,3 @@ Projects:
 2.Birthday invite
 Feel free to explore my work and get in touch if you'd like to learn more or collaborate on future projects.
 Built with : HTML
-
-Check it out now - https://bhuvan-16.github.io/html-portfolio/
